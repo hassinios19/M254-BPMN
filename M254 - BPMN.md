@@ -38,3 +38,10 @@ Regeln fürs Event-Basierte Gateway:
 ![](images/{8F003574-EB98-4A30-A777-CC04A428D808}.png)
 
 ![](images/{B38B45B5-29AF-4691-9814-503A89449ED4}.png)
+
+****
+**D.45 I: Komplexes Gateway Anmerkungen**
+Das Komplexe Gateway soll möglichst selten verwendet werden. Die Bedingungen die daran verknüpft sind, sind häufig in Textform formuliert--->Prozess unmöglich auszuführen bzw automatisiert.
+
+![[{06585189-F68D-495B-8A25-B69C3645C0E9} 3.png]]
+
